@@ -10,7 +10,7 @@ The objective of this project is to explore product data, perform data cleaning,
 
 ## Dataset
 
-The dataset contains product-level information from an e-commerce platform.
+The dataset contains product-level information from an kaggel platform.
 
 ### Columns
 
